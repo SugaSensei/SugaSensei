@@ -46,59 +46,6 @@ I design, build, and deploy web products end-to-end. I started as a frontend dev
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SugaSensei&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=565F89&icon_color=7AA2F7&text_color=C0CAF5&border_color=1A1B26&include_all_commits=true&count_private=false" /> <img height="180em" src="https://streak-stats.demolab.com?user=SugaSensei&theme=tokyonight&background=0d1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=C0CAF5&border=1A1B26" />
-
-</div>
-
----
-
-## 🏆 Featured Project
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/SugaSensei/cardekho-ai-car-advisor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugaSensei&repo=cardekho-ai-car-advisor&theme=tokyonight&bg_color=0d1117&title_color=565F89&icon_color=7AA2F7&text_color=C0CAF5&border_color=1A1B26" />
-</a>
-
-</td>
-<td>
-
-**cardekho-ai-car-advisor**
-
-A Python web app that helps car buyers evaluate deals using AI-powered analysis.
-
-<div style="margin-top: 8px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</div>
-
-<br/>
-
-<a href="https://cardekho-ai-car-advisor-kappa.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/SugaSensei/cardekho-ai-car-advisor">📂 Source</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/SugaSensei">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SugaSensei&bg_color=0d1117&color=7AA2F7&line=7AA2F7&point=C0CAF5&area=true&area_color=7AA2F7&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
